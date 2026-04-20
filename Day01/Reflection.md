@@ -40,6 +40,18 @@ By using the `<Servo.h>` library, the Arduino automatically handles these micros
 ### 6. Final Thoughts
 This project taught me that even simple movements require a mix of **Physics (Voltage), Math (Mapping), and Logic (PWM)**. It makes me respect the complexity of real robots even more.
 
+### Project Gallery & Demo
+
+Here are some captured moments during the development process.
+| **Top View** | **Wiring Setup** | **Servo Detail** |
+| :---: | :---: | :---: |
+| ![Top View](./top-view.jpg) | ![Wiring Side](./side-view.jpg) | ![Servo Detail](./servo-closeup.jpg) |
+
+### Live Demo Video
+
+This short video demonstrates the smooth, linear control I achieved after fixing the common ground issue and applying the correct mapping formula in code.
+
+<video src="./servo-pot-demo.mp4" width="100%" controls></video>
 ---
 **Developed by:** Tran Hong Vy Ai  
 **Date:** April 20, 2026
