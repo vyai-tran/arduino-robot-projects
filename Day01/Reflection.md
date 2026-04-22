@@ -51,7 +51,7 @@ Here are some captured moments during the development process.
 
 This short video demonstrates the smooth, linear control I achieved after fixing the common ground issue and applying the correct mapping formula in code.
 
-<video src="./servo-pot-demo.mp4" width="100%" controls></video>
+![Project Demo Video](./servo-pot-demo.mp4)
 ---
 **Developed by:** Tran Hong Vy Ai  
 **Date:** April 20, 2026
