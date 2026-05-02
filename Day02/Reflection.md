@@ -31,7 +31,7 @@ The most critical part of Day 2 was the coupling between the servo and the cardb
 ## Live Demo (Mechanical Test)
 In this video, I am testing the full 180-degree range of motion. The arm moves smoothly, and the cardboard base remains perfectly stable even at the limits of the sweep.
 
-[![Watch Video Demo on Google Drive](https://drive.google.com/file/d/1DvK3i1fxQGOQ0W5j-Xzj3vDhzTAoHhSW/view?usp=sharing)
+[![Watch Video Demo on Google Drive](https://img.shields.io/badge/Google_Drive-Video_Demo-blue?style=for-the-badge&logo=googledrive)](https://drive.google.com/file/d/1DvK3i1fxQGOQ0W5j-Xzj3vDhzTAoHhSW/view?usp=sharing)
 
 *(Please click the button above to view the detailed operation of the robotic arm.)*
 
