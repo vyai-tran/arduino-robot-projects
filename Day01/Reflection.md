@@ -1,4 +1,4 @@
-# Day 01 Reflection: The Servo Precision Control Project
+# Stage 01 Reflection: The Servo Precision Control Project
 **Author:** Tran Hong Vy Ai  
 **University:** Swinburne University of Technology
 
