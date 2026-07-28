@@ -1,14 +1,14 @@
-# My Robotics & AI Journey
+# Robotics & Embedded Systems Learning Journey
 
-Welcome to my repository! This project documents my 7-day challenge in building robotics systems, focusing on the integration between hardware signals and software logic.
+This repository documents an ongoing robotics project developed over approximately one week, focusing on the integration between hardware signals and software logic. The project is structured into stages — two have been completed (servo control and mechanical structure design), with a third (distance sensing) currently planned pending access to additional components.
 
 ## Project Timeline
 
-| Day | Date | Project Title | Key Concepts | Status | Documentation |
-| :--- | :--- | :--- | :--- | :--- | :--- |
-| **Day 1** | 20/04/2026 | Servo Precision Control | PWM, ADC, Data Mapping | ✅ Done | [View Reflections](./Day01/Reflection.md) |
-| **Day 2** | 22/04/2026 | Mechanical Structure | Prototyping, Kinematics | ✅ Done | [View Reflections](./Day02/Reflection.md) |
-| **Day 3** | 28/04/2026 | Distance Sensing | Ultrasonic Sensors |  Planned |  |
+|  | Project Title | Key Concepts | Status | Documentation |
+| :--- | :--- | :--- | :--- | :--- |
+| **1** | Servo Precision Control | PWM, ADC, Data Mapping | ✅ Done | [View Reflections](./Day01/Reflection.md) |
+| **2** | Mechanical Structure | Prototyping, Kinematics | ✅ Done | [View Reflections](./Day02/Reflection.md) |
+| **3** | Distance Sensing | Ultrasonic Sensors |  Planned |  |
 
 ---
 
@@ -18,5 +18,5 @@ Welcome to my repository! This project documents my 7-day challenge in building 
 * **Tools:** VS Code, Git/GitHub
 
 ##  About Me
-Developed by **Tran Hong Vy Ai** - Swinburne University of Technology.
-This repository serves as a technical portfolio for my robotics and embedded systems studies.
+Developed by **Tran Hong Vy Ai** - Swinburne University of Technology (AI major).
+This repository documents self-directed exploration in robotics and embedded systems, complementing coursework in programming and engineering fundamentals.
