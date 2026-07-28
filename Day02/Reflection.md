@@ -1,4 +1,4 @@
-# Day 02 Reflection: From 3D Design to Physical Construction
+# Stage 02 Reflection: From 3D Design to Physical Construction
 
 ## 1. Objective
 The goal for today was to translate the 3D Tinkercad model into a physical prototype using cardboard, focusing on mechanical stability and the integration of the servo motor.
